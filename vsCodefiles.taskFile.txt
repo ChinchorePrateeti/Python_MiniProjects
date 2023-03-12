@@ -1,0 +1,1 @@
+health wealth happiness NNN wealth happiness health melt happiness NNN melt happiness 
